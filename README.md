@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Goswami</h1>
-<h3 align="center">I am a passionate Full Stack Developer , A DSA Freak and Enthusiast about AI and ML</h3>
+<h3 align="center">I am a passionate Full Stack Developer , A DSA Freak and an AI/ML Enthusiast </h3>
 
 - 🔭 I’m currently working on [EmployeeD](https://github.com/ABHI8769/Employee-Performance-Managment-System)
 
