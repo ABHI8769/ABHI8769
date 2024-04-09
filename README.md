@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Goswami</h1>
-<h3 align="center">I am passionate Full Stack Developer , A DSA Freak and Enthusiast about AI and ML</h3>
+<h3 align="center">I am a passionate Full Stack Developer , A DSA Freak and Enthusiast about AI and ML</h3>
 
 - 🔭 I’m currently working on [EmployeeD](https://github.com/ABHI8769/Employee-Performance-Managment-System)
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ABHI8769](https://github.com/ABHI8769)
 
-- 💬 Ask me about **Java(Core) , JavaScript , React.js , Node.js , Express.js , MongoDB , MYSQL**
+- 💬 Ask me about **Java (Core) , JavaScript , React.js , Node.js , Express.js , MongoDB , MYSQL**
 
 - 📫 How to reach me **abhijeet.goswami78@gmail.com**
 
