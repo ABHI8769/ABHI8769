@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Goswami</h1>
 <h3 align="center">I am passionate Full Stack Developer , A DSA Freak and Enthusiast about AI and ML</h3>
 
-- 🔭 I’m currently working on [EmployeeD](https://github.com/ABHI8769/Employee-Performance-Managment-System)
+- 🔭 I’m currently working on [Code with AJ](https://github.com/ABHI8769/Code-With-AJ)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ABHI8769](https://github.com/ABHI8769)
 
